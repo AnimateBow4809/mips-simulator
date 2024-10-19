@@ -31,4 +31,4 @@ Using the help menu you can easily run your simulation,check the contents of the
 All the programs are in Mips programming language the registers are as followed:
 ![alt text](readme/img.png)
 ## Write programs
-If you are intrested in adding new functionality and/or writing new programs please read this file[readme/MIPS_Instruction_Set] please note that not all the functionality of the mips proccessor is availiable at this time.
+If you are intrested in adding new functionality and/or writing new programs please read this [file](readme/MIPS_Instruction_Set) please note that not all the functionality of the mips proccessor is availiable at this time.
