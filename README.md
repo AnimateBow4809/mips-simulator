@@ -29,4 +29,4 @@ quit                   -  exit the program
 Using the help menu you can easily run your simulation,check the contents of the memory at any time and manipulate the memory.
 ## Read the programs
 All the programs are in Mips programming language the registers are as followed:
-![alt text](image.jpg)
+![alt text](readme/img.png)
